@@ -8,6 +8,10 @@
 - Qualified Social Marketing Specialist
 - Currently finishing RS School Front-End courses stage#2
 - Starting soon RS School React courses
+- English:
+  - Conversation: B2
+  - Reading: C2
+  - Listening: C1
 - Love learning, programming and being creative
 
 ### Contacts:
@@ -22,7 +26,27 @@
 ### My projects:
 
 [Puzzle Game](https://raenlin-rss-puzzle.netlify.app)
-SPA for learning English in a game form.
+SPA for learning English in a game form
 
 [Fun Chat](https://raenlin-fun-chat.netlify.app)
 Chat on websockets (API for app to work is here: [API](https://github.com/YourunB/fun-chat-server))
+
+[Async Race](https://raenlin-async-race.netlify.app)
+Car racing game (API for app to work is here: [API](https://github.com/YourunB/async-race-api))
+
+[Nonograms Game](https://rolling-scopes-school.github.io/raenlin-JSFE2023Q4/nonograms/)
+App for playing nonograms
+
+[Hangman Game](https://rolling-scopes-school.github.io/raenlin-JSFE2023Q4/hangman/)
+App for playing hangman game
+
+[Coffee House](https://rolling-scopes-school.github.io/raenlin-JSFE2023Q4/coffee-house/home/home.html)
+Website about coffee & tea
+
+[Image Gallery](https://rolling-scopes-school.github.io/raenlin-JSFEPRESCHOOL2023Q2/gallery/)
+App for viewing photos & images
+
+[Player](https://rolling-scopes-school.github.io/raenlin-JSFEPRESCHOOL2023Q2/player/)
+Stylish player for listening great songs
+
+### Feel free to contact me 💫
