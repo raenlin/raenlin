@@ -17,7 +17,7 @@
 
 ### My skills:
 
-<image src="/logos/css.png">
+<image src="/logos/css.png" width="50" height="50">
 <image src="/logos/figma.png">
 <image src="/logos/git.jpeg">
 
