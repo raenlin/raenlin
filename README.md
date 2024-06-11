@@ -17,8 +17,6 @@
 
 ### My skills:
 
-<image src="/logos/css.png" width="60" height="60">
-<image src="/logos/figma.png" width="60" height="60">
-<image src="/logos/git.png" width="60" height="60">
+<image src="/logos/css.png" width="60"><image src="/logos/figma.png" width="60"><image src="/logos/git.jpeg" width="60">
 
 ### My projects:
