@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hello! 👋
 
-<!--
-**raenlin/raenlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My name is Darya and I'm Junior Front-End Developer 🚀
 
-Here are some ideas to get you started:
+### About me facts:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- High-qualified SoundEngineer
+- Qualified Social Marketing Specialist
+- Currently finishing RS School Front-End courses stage#2
+- Starting soon RS School React courses
+- Love learning, programming and being creative
+
+### Contacts:
+
+- [Telegram](https://t.me/raenlin)
+- [E-mail](raenlin@gmail.com)
+
+### My skills:
+
+[/logos/css.png]
+[/logos/figma.png]
+[/logos/git.jpeg]
+
+### My projects:
