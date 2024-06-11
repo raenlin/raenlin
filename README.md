@@ -17,8 +17,8 @@
 
 ### My skills:
 
-[/logos/css.png]
-[/logos/figma.png]
-[/logos/git.jpeg]
+<image src="/logos/css.png">
+<image src="/logos/figma.png">
+<image src="/logos/git.jpeg">
 
 ### My projects:
