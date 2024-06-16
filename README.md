@@ -25,28 +25,36 @@
 
 ### My projects:
 
-[Puzzle Game](https://raenlin-rss-puzzle.netlify.app)
-SPA for learning English in a game form
+[Puzzle Game](https://raenlin-rss-puzzle.netlify.app)  
+SPA for learning English in a game form  
+**Stack: Typescript, Javascript, Vite, SPA, Drag&Drop, Git, Fetch, HTML, CSS**
 
-[Fun Chat](https://raenlin-fun-chat.netlify.app)
-Chat on websockets (API for app to work is here: [API](https://github.com/YourunB/fun-chat-server))
+[Fun Chat](https://raenlin-fun-chat.netlify.app)  
+Chat on websockets (API for app to work is here: [API](https://github.com/YourunB/fun-chat-server))  
+**Stack: Websocket, Typescript, Javascript, Vite, HTML, CSS, Git, SPA**
 
-[Async Race](https://raenlin-async-race.netlify.app)
-Car racing game (API for app to work is here: [API](https://github.com/YourunB/async-race-api))
+[Async Race](https://raenlin-async-race.netlify.app)  
+Car racing game (API for app to work is here: [API](https://github.com/YourunB/async-race-api))  
+**Stack: Typescript, Javascript, Vite, HTML, CSS, Git, REST**
 
-[Nonograms Game](https://rolling-scopes-school.github.io/raenlin-JSFE2023Q4/nonograms/)
-App for playing nonograms
+[Nonograms Game](https://rolling-scopes-school.github.io/raenlin-JSFE2023Q4/nonograms/)  
+App for playing nonograms  
+**Stack: Javascript, HTML, CSS, Git**
 
-[Hangman Game](https://rolling-scopes-school.github.io/raenlin-JSFE2023Q4/hangman/)
-App for playing hangman game
+[Hangman Game](https://rolling-scopes-school.github.io/raenlin-JSFE2023Q4/hangman/)  
+App for playing hangman game  
+**Stack: Javascript, HTML, CSS, Git**
 
-[Coffee House](https://rolling-scopes-school.github.io/raenlin-JSFE2023Q4/coffee-house/home/home.html)
-Website about coffee & tea
+[Coffee House](https://rolling-scopes-school.github.io/raenlin-JSFE2023Q4/coffee-house/home/home.html)  
+Website about coffee & tea  
+**Stack: Javascript, HTML, CSS, Git, OOP, Fetch**
 
-[Image Gallery](https://rolling-scopes-school.github.io/raenlin-JSFEPRESCHOOL2023Q2/gallery/)
-App for viewing photos & images
+[Image Gallery](https://rolling-scopes-school.github.io/raenlin-JSFEPRESCHOOL2023Q2/gallery/)  
+App for viewing photos & images  
+**Stack: Javascript, HTML, CSS, Git, Fetch**
 
-[Player](https://rolling-scopes-school.github.io/raenlin-JSFEPRESCHOOL2023Q2/player/)
-Stylish player for listening great songs
+[Player](https://rolling-scopes-school.github.io/raenlin-JSFEPRESCHOOL2023Q2/player/)  
+Stylish player for listening great songs  
+**Stack: Javascript, HTML, CSS, Git**
 
 ### Feel free to contact me 💫
