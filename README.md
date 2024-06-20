@@ -26,6 +26,8 @@
 ### My projects:
 
 [Puzzle Game](https://raenlin-rss-puzzle.netlify.app)  
+<image src="/projects/puzzle_1.png" width="100"><image src="/projects/puzzle_2.png" width="100"><image src="/projects/puzzle_3.png" width="100"><image src="/projects/puzzle_4.png" width="100">
+
 SPA for learning English in a game form  
 **Stack: Typescript, Javascript, Vite, SPA, Drag&Drop, Git, Fetch, HTML, CSS**
 
