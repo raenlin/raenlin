@@ -25,6 +25,14 @@
 
 ### My projects:
 
+[Online Moon Store](https://online-moon-store.netlify.app)
+
+<image src="/projects/moon-store_1.png" width="300"> <image src="/projects/moon-store_2.png" width="300">
+
+Command task for final project on RS School Front-End Courses;  
+My tasks on project: SDK, tokens, client flows (anonymous, withPassword, withRefreshToken), Login page, Catalog Page, Categories, Basket (anonymous and authorizied)
+**Stack: Typescript, Webpack, SDK, SPA, Git, HTML, CSS, REST, Commerce Tools, Design**
+
 [Todo List App](https://raenlin-todolist-app.netlify.app/)
 
 <image src="/projects/todo-list-app.png" width="300">
