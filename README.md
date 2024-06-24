@@ -25,6 +25,13 @@
 
 ### My projects:
 
+[Todo List App](https://raenlin-todolist-app.netlify.app/)
+
+<image src="/projects/todo-list-app.png" width="300">
+
+Simple Todo List App  
+**Stack: Typescript, Vite, SPA, Git, HTML, CSS, Design**
+
 [Puzzle Game](https://raenlin-rss-puzzle.netlify.app)
 
 <image src="/projects/puzzle_1.png" width="300"> <image src="/projects/puzzle_2.png" width="300"> <image src="/projects/puzzle_3.png" width="300"> <image src="/projects/puzzle_4.png" width="300">
