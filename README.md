@@ -6,8 +6,8 @@
 
 - High-qualified SoundEngineer
 - Qualified Social Marketing Specialist
-- Currently finishing RS School Front-End courses stage#2
-- Starting soon RS School React courses
+- Finished RS School Front-End courses with Certificate
+- Now studying RS School React courses
 - English:
   - Conversation: B2
   - Reading: C2
@@ -22,6 +22,10 @@
 ### My skills:
 
 <image src="/logos/TS.png" width="60"><image src="/logos/JS.png" width="60"><image src="/logos/git.jpeg" width="60"><image src="/logos/html.png" width="60"><image src="/logos/css.png" width="60"><image src="/logos/sass.png" width="60"><image src="/logos/rest.jpeg" width="60"><image src="/logos/vite.svg" width="60"><image src="/logos/webpack.png" width="60"><image src="/logos/websocket.svg" width="60"><image src="/logos/figma.png" width="60"><image src="/logos/pp.png" width="60">
+
+### Courses:
+
+- [RS School Front-End](https://app.rs.school/certificate/kp6i5inu)
 
 ### My projects:
 
