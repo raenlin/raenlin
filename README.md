@@ -4,8 +4,7 @@
 
 ### About me facts:
 
-- High-qualified SoundEngineer
-- Qualified Social Marketing Specialist
+- Proactive
 - Finished RS School Front-End courses with Certificate
 - Now studying RS School React courses
 - English:
