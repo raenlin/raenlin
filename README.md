@@ -32,7 +32,7 @@
 
 <image src="/projects/react-forms.png" width="300">
 
-Simple SPA on React with two forms: controlled and uncontrolled
+Simple SPA on React with two forms: controlled and uncontrolled  
 **Stack: React, Typescript, Vite, SPA, Git, HTML, CSS, Design**
 
 [Puzzle Game](https://raenlin-rss-puzzle.netlify.app)
