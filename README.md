@@ -28,6 +28,13 @@
 
 ### My projects:
 
+[Star Wars Planets](https://raenlin-star-wars.netlify.app/)
+
+<image src="/projects/star-wars.png" width="300">
+
+Simple SPA for investigating Star Wars Planets  
+**Stack: Next, Typescript, REST, SSR, SPA, Git, HTML, CSS, Design**
+
 [React Forms](https://raenlin-forms.netlify.app/)
 
 <image src="/projects/react-forms.png" width="300">
