@@ -1,6 +1,6 @@
 # Hello! 👋
 
-## My name is Darya and I'm Front-End Developer 🚀
+## My name is Darya and I'm Frontend Developer 🚀
 
 ### About me facts:
 
