@@ -31,21 +31,21 @@
 
 <image src="/projects/spa-rick.png" width="300">
 
-SPA on NEXT using form validation, iframe and firebase  
+SPA on Nextjs using form validation, iframe and firebase  
 **Stack: Next, Typescript, Firebase, SPA, Design**
 
 [Movie Form](https://github.com/raenlin/Movie-form-on-Nextjs)
 
 <image src="/projects/movie-form.png" width="300">
 
-Simple form on Nextjs with validation and saving data to localstorage
+Simple form on Nextjs with validation and saving data to localstorage  
 **Stack: Next, Typescript, Yup, React Hook Form**
 
 [Star Wars Planets](https://github.com/raenlin/Projects-on-React-Redux-Nextjs/tree/nextjs-ssr-app-router-api)
 
 <image src="/projects/star-wars.png" width="300">
 
-SPA on NEXT for investigating Star Wars Planets  
+SPA on Nextjs for investigating Star Wars Planets  
 **Stack: Next, Typescript, REST, SSR, SPA, Git, HTML, CSS, Design**
 
 [React Forms](https://github.com/raenlin/Projects-on-React-Redux-Nextjs/tree/forms)
