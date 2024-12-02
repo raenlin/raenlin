@@ -44,7 +44,7 @@
 
 <image src="/projects/spa-rick.png" width="300">
 
-SPA on Nextjs using form validation, iframe and firebase  
+SPA(single page application) on Nextjs using form validation, iframe and firebase  
 **Stack: Next, Typescript, Firebase, SPA, Design**
 
 [Movie Form](https://github.com/raenlin/Movie-form-on-Nextjs)
@@ -58,21 +58,21 @@ Simple form on Nextjs with validation and saving data to localstorage
 
 <image src="/projects/star-wars.png" width="300">
 
-SPA on Nextjs for investigating Star Wars Planets  
+SPA(single page application) on Nextjs for investigating Star Wars Planets  
 **Stack: Next, Typescript, REST, SSR, SPA, Git, HTML, CSS, Design**
 
 [React Forms](https://github.com/raenlin/Projects-on-React-Redux-Nextjs/tree/forms)
 
 <image src="/projects/react-forms.png" width="300">
 
-SPA on React with two forms: controlled and uncontrolled  
+SPA(single page application) on React with two forms: controlled and uncontrolled  
 **Stack: React, Typescript, Vite, Yup, React Hook Form, SPA, Git, HTML, CSS, Design**
 
 [Puzzle Game](https://raenlin-rss-puzzle.netlify.app)
 
 <image src="/projects/puzzle_1.png" width="300"> <image src="/projects/puzzle_2.png" width="300"> <image src="/projects/puzzle_3.png" width="300"> <image src="/projects/puzzle_4.png" width="300">
 
-SPA for learning English in a game form  
+SPA(single page application) for learning English in a game form  
 **Stack: Typescript, Javascript, Vite, SPA, Drag&Drop, Git, Fetch, HTML, CSS, Design**
 
 [Coffee House](https://rolling-scopes-school.github.io/raenlin-JSFE2023Q4/coffee-house/home/home.html)
@@ -81,5 +81,3 @@ SPA for learning English in a game form
 
 Website about coffee & tea  
 **Stack: Javascript, HTML, CSS, Git, OOP**
-
-### Feel free to contact me 💫
