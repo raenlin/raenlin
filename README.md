@@ -18,7 +18,20 @@
 
 ### My skills:
 
-<image src="/logos/react.svg" width="60"><image src="/logos/next.png" width="60"><image src="/logos/TS.png" width="60"><image src="/logos/JS.png" width="60"><image src="/logos/git.jpeg" width="60"><image src="/logos/html.png" width="60"><image src="/logos/css.png" width="60"><image src="/logos/sass.png" width="60"><image src="/logos/rest.jpeg" width="60"><image src="/logos/vite.svg" width="60"><image src="/logos/webpack.png" width="60"><image src="/logos/websocket.svg" width="60"><image src="/logos/figma.png" width="60"><image src="/logos/pp.png" width="60">
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeSctipt-316192?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![HTML](https://img.shields.io/badge/html-DC6430.svg?style=for-the-badge&logo=websocket&logoColor=white)
+![CSS](https://img.shields.io/badge/css-3030DC.svg?style=for-the-badge&logo=css&logoColor=white)
+![Webpack](https://img.shields.io/badge/html-%238DD6F9.svg?style=for-the-badge&logo=html&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Git](https://img.shields.io/badge/git-FFFFFF.svg?style=for-the-badge&logo=git&logoColor=black)
+![GitHub](https://img.shields.io/badge/github-26A6E6.svg?style=for-the-badge&logo=github&logoColor=white)
+![Websocket](https://img.shields.io/badge/websocket-000000.svg?style=for-the-badge&logo=websocket&logoColor=white)
+![REST](https://img.shields.io/badge/rest-3989C6.svg?style=for-the-badge&logo=rest&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-000000.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ### Certificates:
 
